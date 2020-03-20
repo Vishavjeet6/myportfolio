@@ -80,56 +80,6 @@ export const contactData = {
   email: 'vishavjeetsinghthakur@gmail.com',
 };
 
-// PROJECTS DATA
-export const projectsData = [
-  {
-    id: uuidv1(),
-    img: 'car.jpg',
-    title: 'Self-Driving Car',
-    info: 'A simple deep learning model to predict the steering angle so that the car remains on the track',
-    info2: 'Technologies used are Python, Numpy, Pandas, Keras, Deep Learing',
-    url: '',
-    repo: 'https://github.com/Vishavjeet6/self-driving-car', // if no repo, the button will not show up
-  },
-  {
-    id: uuidv1(),
-    img: 'whatsapp.jpeg',
-    title: 'WhatsApp ChatBot',
-    info: 'This chatbot can give you movies info, news, wikipedia, and general query answers type in chat join drop-series',
-    info2: 'Technologies used are Python, Google Cloud, DialogFlow, Twilio, Flask, MongoDB',
-    url: 'https://wa.me/14155238886',
-    repo: 'https://github.com/Vishavjeet6/whatsapp-bot', // if no repo, the button will not show up
-  },
-  {
-    id: uuidv1(),
-    img: 'web.jpg',
-    title: 'WEBSITE CRAWLER',
-    info: 'It travserse all the links in a site and stores in a file',
-    info2: 'Technologies used are Python, Multi-Threading',
-    url: '',
-    repo: 'https://github.com/Vishavjeet6/website-crawler', // if no repo, the button will not show up
-  },
-  {
-    id: uuidv1(),
-    img: 'hr.jpg',
-    title: 'HR-Employee-Manager',
-    info: 'HR manager can login to application and manage employees. However the details of the Employees are maintained on a separate server i.e in this project rest api is exposed and consumed',
-    info2: 'Made in Java, RESTful webservices, SPRING MVC, JSP, Jersey, Maven, Hibernate',
-    url: '',
-    repo: 'https://github.com/Vishavjeet6/HREmployeeManager', // if no repo, the button will not show up
-  },
-  {
-    id: uuidv1(),
-    img: 'tictac.PNG',
-    title: 'Tic-Tac-Toe',
-    info: 'Tic Tac Toe using AI which uses Min-Max Algorithm',
-    info2: 'Technologies used are Python, JS, CSS, HTML',
-    url: 'https://vishavtictactoe.netlify.com/',
-    repo: 'https://github.com/Vishavjeet6/Tic-Tac-Toe', // if no repo, the button will not show up
-  },
-];
-
-
 // FOOTER DATA
 export const footerData = {
   networks: [
