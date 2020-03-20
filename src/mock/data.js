@@ -39,9 +39,9 @@ export const projectsData = [
     id: uuidv1(),
     img: 'whatsapp.jpeg',
     title: 'WhatsApp ChatBot',
-    info: 'This chatbot can give you movies info, news, wikipedia, and general query answers',
+    info: 'This chatbot can give you movies info, news, wikipedia, and general query answers type in chat join drop-series',
     info2: 'Technologies used are Python, Google Cloud, DialogFlow, Twilio, Flask, MongoDB',
-    url: '',
+    url: 'https://wa.me/14155238886',
     repo: 'https://github.com/Vishavjeet6/whatsapp-bot', // if no repo, the button will not show up
   },
   {
