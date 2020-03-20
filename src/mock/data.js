@@ -21,7 +21,7 @@ export const aboutData = {
   paragraphOne: 'I am a 4th year Computer Science Engineering student',
   paragraphTwo: 'currently working in Nagarro Software Company Gurgaon',
   paragraphThree: 'My interest is to build something which can be used by millions',
-  resume: 'https://www.resumemaker.online/es.php', // if no resume, the button will not show up
+  resume: 'https://drive.google.com/open?id=1wEicdEltZ0xgbA847x0q6ZJUPCYHzgZw', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
